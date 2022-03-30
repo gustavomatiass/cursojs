@@ -7,7 +7,9 @@ header {
     color: white;
     
 }
-
+img {
+    width: 200px;
+}
 
 section {
     background: white;
